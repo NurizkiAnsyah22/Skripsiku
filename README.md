@@ -2,7 +2,7 @@
 
 # judul skripsi saya : PERANCANGAN SISTEM INFORMASI INVENTORY GUDANG BARANG TELEKOMUNIKASI DI PT....
 
-![Login Apps](https://nurizkiansyah.puridigital.id/login.png "Login Apps" =600x400)
+![Login Apps](https://nurizkiansyah.puridigital.id/login.png)
 
 
 ## Daftar Isi
