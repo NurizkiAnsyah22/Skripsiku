@@ -1,0 +1,114 @@
+[24-Aug-2023 13:55:00 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Access denied for user 'root'@'localhost' (using password: NO)' in /home/gste8519/public_html/nurizkiansyah.puridigital.id/index.php:9
+Stack trace:
+#0 /home/gste8519/public_html/nurizkiansyah.puridigital.id/index.php(9): mysqli->mysqli('localhost', 'root', '', 'inventori')
+#1 {main}
+  thrown in /home/gste8519/public_html/nurizkiansyah.puridigital.id/index.php on line 9
+[24-Aug-2023 13:56:44 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Access denied for user 'root'@'localhost' (using password: NO)' in /home/gste8519/public_html/nurizkiansyah.puridigital.id/index.php:9
+Stack trace:
+#0 /home/gste8519/public_html/nurizkiansyah.puridigital.id/index.php(9): mysqli->mysqli('localhost', 'root', '', 'inventori')
+#1 {main}
+  thrown in /home/gste8519/public_html/nurizkiansyah.puridigital.id/index.php on line 9
+[24-Aug-2023 13:56:47 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Access denied for user 'root'@'localhost' (using password: NO)' in /home/gste8519/public_html/nurizkiansyah.puridigital.id/index.php:9
+Stack trace:
+#0 /home/gste8519/public_html/nurizkiansyah.puridigital.id/index.php(9): mysqli->mysqli('localhost', 'root', '', 'inventori')
+#1 {main}
+  thrown in /home/gste8519/public_html/nurizkiansyah.puridigital.id/index.php on line 9
+[24-Aug-2023 13:56:52 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Access denied for user 'root'@'localhost' (using password: NO)' in /home/gste8519/public_html/nurizkiansyah.puridigital.id/index.php:9
+Stack trace:
+#0 /home/gste8519/public_html/nurizkiansyah.puridigital.id/index.php(9): mysqli->mysqli('localhost', 'root', '', 'inventori')
+#1 {main}
+  thrown in /home/gste8519/public_html/nurizkiansyah.puridigital.id/index.php on line 9
+[24-Aug-2023 13:57:39 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Access denied for user 'root'@'localhost' (using password: NO)' in /home/gste8519/public_html/nurizkiansyah.puridigital.id/index.php:9
+Stack trace:
+#0 /home/gste8519/public_html/nurizkiansyah.puridigital.id/index.php(9): mysqli->mysqli('localhost', 'root', '', 'inventori')
+#1 {main}
+  thrown in /home/gste8519/public_html/nurizkiansyah.puridigital.id/index.php on line 9
+[24-Aug-2023 13:58:21 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Access denied for user 'root'@'localhost' (using password: NO)' in /home/gste8519/public_html/nurizkiansyah.puridigital.id/index3.php:9
+Stack trace:
+#0 /home/gste8519/public_html/nurizkiansyah.puridigital.id/index3.php(9): mysqli->mysqli('localhost', 'root', '', 'inventori')
+#1 {main}
+  thrown in /home/gste8519/public_html/nurizkiansyah.puridigital.id/index3.php on line 9
+[24-Aug-2023 13:59:05 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Access denied for user 'root'@'localhost' (using password: NO)' in /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/barangkeluar/tambahbarangkeluar.php:16
+Stack trace:
+#0 /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/barangkeluar/tambahbarangkeluar.php(16): mysqli->mysqli('localhost', 'root', '', 'inventori')
+#1 /home/gste8519/public_html/nurizkiansyah.puridigital.id/index3.php(353): include('/home/gste8519/...')
+#2 {main}
+  thrown in /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/barangkeluar/tambahbarangkeluar.php on line 16
+[24-Aug-2023 13:59:50 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Unknown column 'total' in 'field list'' in /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/barangkeluar/tambahbarangkeluar.php:162
+Stack trace:
+#0 /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/barangkeluar/tambahbarangkeluar.php(162): mysqli->query('insert into bar...')
+#1 /home/gste8519/public_html/nurizkiansyah.puridigital.id/index3.php(353): include('/home/gste8519/...')
+#2 {main}
+  thrown in /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/barangkeluar/tambahbarangkeluar.php on line 162
+[24-Aug-2023 14:00:45 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Unknown column 'total' in 'field list'' in /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/barangkeluar/tambahbarangkeluar.php:162
+Stack trace:
+#0 /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/barangkeluar/tambahbarangkeluar.php(162): mysqli->query('insert into bar...')
+#1 /home/gste8519/public_html/nurizkiansyah.puridigital.id/index3.php(353): include('/home/gste8519/...')
+#2 {main}
+  thrown in /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/barangkeluar/tambahbarangkeluar.php on line 162
+[24-Aug-2023 15:13:47 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Access denied for user 'root'@'localhost' (using password: NO)' in /home/gste8519/public_html/nurizkiansyah.puridigital.id/index.php:9
+Stack trace:
+#0 /home/gste8519/public_html/nurizkiansyah.puridigital.id/index.php(9): mysqli->mysqli('localhost', 'root', '', 'inventori')
+#1 {main}
+  thrown in /home/gste8519/public_html/nurizkiansyah.puridigital.id/index.php on line 9
+[24-Aug-2023 15:14:10 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Access denied for user 'root'@'localhost' (using password: NO)' in /home/gste8519/public_html/nurizkiansyah.puridigital.id/index.php:9
+Stack trace:
+#0 /home/gste8519/public_html/nurizkiansyah.puridigital.id/index.php(9): mysqli->mysqli('localhost', 'root', '', 'inventori')
+#1 {main}
+  thrown in /home/gste8519/public_html/nurizkiansyah.puridigital.id/index.php on line 9
+[24-Aug-2023 15:14:37 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Access denied for user 'root'@'localhost' (using password: NO)' in /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/gudang/tambahgudang.php:5
+Stack trace:
+#0 /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/gudang/tambahgudang.php(5): mysqli->mysqli('localhost', 'root', '', 'inventori')
+#1 /home/gste8519/public_html/nurizkiansyah.puridigital.id/index3.php(336): include('/home/gste8519/...')
+#2 {main}
+  thrown in /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/gudang/tambahgudang.php on line 5
+[24-Aug-2023 15:16:30 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Access denied for user 'root'@'localhost' (using password: NO)' in /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/barangmasuk/tambahbarangmasuk.php:15
+Stack trace:
+#0 /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/barangmasuk/tambahbarangmasuk.php(15): mysqli->mysqli('localhost', 'root', '', 'inventori')
+#1 /home/gste8519/public_html/nurizkiansyah.puridigital.id/index3.php(319): include('/home/gste8519/...')
+#2 {main}
+  thrown in /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/barangmasuk/tambahbarangmasuk.php on line 15
+[24-Aug-2023 15:17:45 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Unknown column 'total' in 'field list'' in /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/barangkeluar/tambahbarangkeluar.php:162
+Stack trace:
+#0 /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/barangkeluar/tambahbarangkeluar.php(162): mysqli->query('insert into bar...')
+#1 /home/gste8519/public_html/nurizkiansyah.puridigital.id/index3.php(353): include('/home/gste8519/...')
+#2 {main}
+  thrown in /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/barangkeluar/tambahbarangkeluar.php on line 162
+[24-Aug-2023 15:24:56 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Unknown column 'total' in 'field list'' in /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/barangkeluar/tambahbarangkeluar.php:162
+Stack trace:
+#0 /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/barangkeluar/tambahbarangkeluar.php(162): mysqli->query('insert into bar...')
+#1 /home/gste8519/public_html/nurizkiansyah.puridigital.id/index3.php(353): include('/home/gste8519/...')
+#2 {main}
+  thrown in /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/barangkeluar/tambahbarangkeluar.php on line 162
+[24-Aug-2023 15:31:45 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Unknown column 'total' in 'field list'' in /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/barangkeluar/tambahbarangkeluar.php:162
+Stack trace:
+#0 /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/barangkeluar/tambahbarangkeluar.php(162): mysqli->query('INSERT INTO bar...')
+#1 /home/gste8519/public_html/nurizkiansyah.puridigital.id/index3.php(353): include('/home/gste8519/...')
+#2 {main}
+  thrown in /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/barangkeluar/tambahbarangkeluar.php on line 162
+[24-Aug-2023 15:32:02 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Unknown column 'total' in 'field list'' in /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/barangkeluar/tambahbarangkeluar.php:162
+Stack trace:
+#0 /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/barangkeluar/tambahbarangkeluar.php(162): mysqli->query('INSERT INTO bar...')
+#1 /home/gste8519/public_html/nurizkiansyah.puridigital.id/index3.php(353): include('/home/gste8519/...')
+#2 {main}
+  thrown in /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/barangkeluar/tambahbarangkeluar.php on line 162
+[24-Aug-2023 15:57:14 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/gste8519/public_html/nurizkiansyah.puridigital.id/login.php on line 8
+[24-Aug-2023 15:57:16 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/gste8519/public_html/nurizkiansyah.puridigital.id/login.php on line 8
+[24-Aug-2023 15:57:17 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/gste8519/public_html/nurizkiansyah.puridigital.id/login.php on line 8
+[24-Aug-2023 15:57:18 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/gste8519/public_html/nurizkiansyah.puridigital.id/login.php on line 8
+[24-Aug-2023 16:22:01 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Access denied for user 'root'@'localhost' (using password: NO)' in /home/gste8519/public_html/nurizkiansyah.puridigital.id/index.php:9
+Stack trace:
+#0 /home/gste8519/public_html/nurizkiansyah.puridigital.id/index.php(9): mysqli->mysqli('localhost', 'root', '', 'inventori')
+#1 {main}
+  thrown in /home/gste8519/public_html/nurizkiansyah.puridigital.id/index.php on line 9
+[24-Aug-2023 16:36:49 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Access denied for user 'root'@'localhost' (using password: NO)' in /home/gste8519/public_html/nurizkiansyah.puridigital.id/index2.php:9
+Stack trace:
+#0 /home/gste8519/public_html/nurizkiansyah.puridigital.id/index2.php(9): mysqli->mysqli('localhost', 'root', '', 'inventori')
+#1 {main}
+  thrown in /home/gste8519/public_html/nurizkiansyah.puridigital.id/index2.php on line 9
+[24-Aug-2023 19:17:22 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Access denied for user 'root'@'localhost' (using password: NO)' in /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/supplier/tambahsupplier.php:7
+Stack trace:
+#0 /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/supplier/tambahsupplier.php(7): mysqli->mysqli('localhost', 'root', '', 'inventori')
+#1 /home/gste8519/public_html/nurizkiansyah.puridigital.id/index3.php(254): include('/home/gste8519/...')
+#2 {main}
+  thrown in /home/gste8519/public_html/nurizkiansyah.puridigital.id/page/supplier/tambahsupplier.php on line 7
